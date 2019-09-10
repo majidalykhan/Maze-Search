@@ -7,7 +7,7 @@ using namespace std;
 int main()
 {
 	Maze maze;
-
+    //Checking for git
 	maze.starting_position.i = 1;
 	maze.starting_position.j = 1;
 
